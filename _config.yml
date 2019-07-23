@@ -103,7 +103,7 @@ comments_provider: gitalk
 # # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: deepweaver
-    repo: blog-comments
+    repo: deepweaver.github.io
     clientID: a9863efd195333ab1663
     clientSecret: d2062c8f282bd0792468efc8323611ae1f2f7664
 # 在使用其它评论组件时可点击显示 Disqus
